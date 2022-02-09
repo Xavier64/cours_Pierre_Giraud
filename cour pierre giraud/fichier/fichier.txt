@@ -1,0 +1,1 @@
+PHP: Hypertext Preprocessor28, plus connu sous son sigle PHP (sigle auto-référentiel), est un langage de programmation libre29, principalement utilisé pour produire des pages Web dynamiques via un serveur HTTP28, mais pouvant également fonctionner comme n'importe quel langage interprété de façon locale. PHP est un langage impératif orienté objet.
